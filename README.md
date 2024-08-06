@@ -4,7 +4,7 @@ I'm Robert Atherton, a data enthusiast with a background in Physics and Bioinfor
 
 ## Skills
 - **Programming Languages:** Python, R, MatLab, Bash, VBA
-- **Tools:** MetaboAnalyst, Power BI, Microsoft Office
+- **Tools:** MetaboAnalyst, Power BI, Oracle SQL, Microsoft Office
 - **Others:** Data Visualization, Machine Learning, Statistical Analysis
 
 ## Projects
